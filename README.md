@@ -2,6 +2,8 @@
 
 A simple file sharing web app that lets you upload any file and instantly get a unique link. Share that link with anyone — no login or authentication required. The recipient can directly download the file via the link. 🔗⚡
 
+https://github.com/user-attachments/assets/d86b1892-6b52-4061-a107-88ebdfd0ed52
+
 ## 🌐 Features
 
 - Upload files securely via file input
